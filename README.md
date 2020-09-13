@@ -27,6 +27,14 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run deploy`
+
+Build deployable live version for viewing the project on the GitHub pages directory, under (http://{username}.github.io/{repo-name}). 
+
+Requires commit of changes before running the deploy.
+
+Method obtained from: https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
